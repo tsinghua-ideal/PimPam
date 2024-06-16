@@ -1,0 +1,6 @@
+data/
+data-bak/
+bin/
+obj/
+result/
+nohup.out
